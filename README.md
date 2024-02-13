@@ -1,7 +1,1 @@
-echo "# mhmtates" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mhmtates/mhmtates.git
-git push -u origin main
+ Front-End(Önyüz) alanında kendini geliştirmek ve bu alanda çalışmak isteyen biriyim.Genel olarak,<strong>C#,.NetCore,Html5,Css3,Javascript,MSSql</strong> gibi teknolojilerde bilgi sahibiyim ve bu teknolojileri kullanarak geliştirmiş olduğum bazı projeler var.
