@@ -5,4 +5,5 @@ Front-End(Önyüz) alanında kendini geliştirmek ve bu alanda çalışmak istey
 ---------
 **Teknolojiler**
 
-[![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=C#&logoColor=blue)]
+![image](https://github.com/mhmtates/mhmtates/assets/90877794/0930ac85-3431-48c5-aff0-1b380f35b1e0)
+
