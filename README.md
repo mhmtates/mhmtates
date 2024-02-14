@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mehmet Ateş Özateş.</h1>
-<img align=left"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Freelance+FullStack+Developer)](https://git.io/typing-svg) </img>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Freelance+FullStack+Developer)](https://git.io/typing-svg) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtates&label=Profile%20views&color=0e75b6&style=flat" alt="mhmtates" /> </p>
 
