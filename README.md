@@ -24,8 +24,7 @@
 <h3 align="left"> Github Stats </h3>
 
 ![mhmtates's Stats](https://github-readme-stats.vercel.app/api?username=mhmtates&theme=monokai&show_icons=true&hide_border=true&count_private=true)
-<!--<img src="https://github-readme-stats.vercel.app/api?username=mhmtates&count_private=true&show_icons=true&theme=monokai">-->
-
+![mhmtates's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmtates&theme=monokai&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtates&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
