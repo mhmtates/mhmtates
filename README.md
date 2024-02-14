@@ -23,7 +23,7 @@
 
 <h3 align="left"> Github Stats </h3>
 
-![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=mhmtates&theme=chartreuse-dark&hide_border=true))]
+![[](https://github-readme-streak-stats.herokuapp.com/user=mhmtates&theme=chartreuse-dark&hide_border=true)
 <!--<img src="https://github-readme-stats.vercel.app/api?username=mhmtates&count_private=true&show_icons=true&theme=chartreuse-dark">-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtates&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
