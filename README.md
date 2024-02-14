@@ -1,6 +1,6 @@
 
 # Hi,everyone I'm Mehmet Ateş Özateş 👋 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Freelance+FullStack+Developer)](https://git.io/typing-svg)
 
 ## Social Media Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-ateş-özateş-bb8108110/)
