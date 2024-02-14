@@ -5,7 +5,7 @@
 ## Social Media Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmet-ateş-özateş-bb8108110/)
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/m.ates.ozates)
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mehmet.ates.ozates)
+[![Instagram](https://img.shields.io/badge/Instagram-%E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/mehmet.ates.ozates)
 
 
 ## Tech Stack
