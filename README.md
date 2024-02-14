@@ -19,7 +19,10 @@
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+## GitHub Statistics
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhmtates&theme=dark)](https://git.io/streak-stats)
+<!--<img src="https://github-readme-stats.vercel.app/api?username=mhmtates&count_private=true&show_icons=true&theme=tokyonight">-->
 
 
 
