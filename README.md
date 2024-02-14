@@ -22,8 +22,9 @@
 
 
 <h3 align="left"> Github Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtates&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mhmtates" /></p>
 
-<p>&nbsp;<img align="center" src=""https://github-readme-stats.vercel.app/api?username=mhmtates&count_private=true&show_icons=true&theme=chartreuse-dark&locale=en" alt="mhmtates" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhmtates&theme=chartreuse-dark)](https://git.io/streak-stats)
+<!--<img src="https://github-readme-stats.vercel.app/api?username=mhmtates&count_private=true&show_icons=true&theme=chartreuse-dark">-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmtates&" alt="mhmtates" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtates&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
