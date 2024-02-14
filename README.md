@@ -1,5 +1,5 @@
 
-# Hi,everyone I'm Mehmet Ateş Özateş 👋 
+# Hi,everyone.I'm Mehmet Ateş Özateş 👋 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Freelance+FullStack+Developer)](https://git.io/typing-svg)
 
 ## Social Media Profiles
