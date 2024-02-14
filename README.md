@@ -3,7 +3,7 @@ Front-End(Önyüz) alanında kendini geliştirmek ve bu alanda çalışmak istey
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=blue)](linkedin.com/in/mehmet-ateş-özateş-bb8108110/)
 
 ---------
-**Kullandığım Teknolojiler**
+**Teknolojiler**
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
