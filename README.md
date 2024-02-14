@@ -22,7 +22,7 @@
   </a>
 
   <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/bootstrap/bootstrap-original.svg" alt="Bootstrap" > 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 
 
