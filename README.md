@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [personal website](https://github.com/mhmtates/personal-website)
 
-- 🌱 I’m currently learning **Scss,Bootstrap**
-
 - 📫 How to reach me **ozatesatess@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
