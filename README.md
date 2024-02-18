@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mehmet Ateş Özateş.</h1>
-<p align="left"> I'm a passionate web developer who is eager to learn new technologies and I always try to enhance my coding skills. I have used some technologies such as <b>c#, .net core,mssql server,html5,css3,bootstrap,javascript,jquery</b> and developed desktop,web(e-commerce) and front-end projects using these technologies so far.I describe myself as a fullstack developer now but my goal is to be a front-end developer actually.</p>
+<p align="left"> I'm a passionate web developer who is eager to learn new technologies and I always try to enhance my coding skills. I have used some technologies such as <b>c#, .net core,mssql server,html5,css3,bootstrap,javascript,jquery</b> and developed desktop,web(e-commerce) and front-end projects using these technologies so far.To sum up, I am a freelance fullstack developer now but I would like to continue my career as a front-end developer in the future.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtates&label=Profile%20views&color=0e75b6&style=flat" alt="mhmtates" /> </p>
 
