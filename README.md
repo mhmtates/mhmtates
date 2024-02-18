@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtates&label=Profile%20views&color=0e75b6&style=flat" alt="mhmtates" /> </p>
 
-- 🔭 I’m currently learning <b>javascript,typescript</b>.
+- 🔭 I’m learning <b>javascript,typescript</b>.
 - 🔭 I'm also interested in <b>angular.js,react.js</b> 
 
 - 📫 How to reach me **ozatesatess@gmail.com**
