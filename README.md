@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtates&label=Profile%20views&color=0e75b6&style=flat" alt="mhmtates" /> </p>
 
-- 🔭 I’m currently working on [personal website](https://github.com/mhmtates/personal-website)
+- 🔭 I’m currently learning <b>bootstrap,javascript</b>.
+- 
 
 - 📫 How to reach me **ozatesatess@gmail.com**
 
