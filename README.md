@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtates&label=Profile%20views&color=0e75b6&style=flat" alt="mhmtates" /> </p>
 
-- 🔭 I’m learning <b>javascript,typescript</b>.
+- 🔭 I’m learning <b>javascript,typescript</b>
 - 🌱 I'm also interested in <b>angular.js,react.js</b>
-- 👯 I’m looking to collaborate on fulltime jobs.
-- 🤔 I’m looking for help with fulltime jobs.
+- 👯 I’m looking to collaborate on fulltime jobs
+- 🤔 I’m looking for help with fulltime jobs
 - 💬 Ask me about anything
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: football and movie
